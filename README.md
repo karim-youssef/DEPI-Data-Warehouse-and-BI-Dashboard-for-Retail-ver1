@@ -91,6 +91,7 @@ Before setting up the project, ensure you have the following:
 - **Develop Python Notebooks**: Use PySpark to write and run notebooks that transform data between bronze, silver, and gold layers.
 - **Integrate with ADF**: Link Databricks notebooks to ADF for orchestration and scheduling.
 
+![18](https://github.com/user-attachments/assets/001f1cd7-6814-401a-b71b-7539e18b738e)
 
 
 ---
@@ -100,6 +101,7 @@ Before setting up the project, ensure you have the following:
 - **Data Warehousing**: Set up dedicated or serverless SQL pools to perform queries and transformations.
 - **Run Queries**: Execute SQL queries to extract insights from the transformed data.
 
+![19](https://github.com/user-attachments/assets/ba9d1dce-1250-4e9e-b35a-35b5c722c241)
 
 
 ---
@@ -109,6 +111,7 @@ Before setting up the project, ensure you have the following:
 - **Design Reports**: Create interactive visualizations and dashboards that provide real-time insights.
 - **Publish to Power BI Service**: Publish your reports for sharing and collaboration with stakeholders.
 
+![20](https://github.com/user-attachments/assets/268bf37e-4460-4040-8228-6af26bca84d0)
 
 
 ---
