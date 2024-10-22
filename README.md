@@ -63,14 +63,25 @@ Before setting up the project, ensure you have the following:
 
 ![07](https://github.com/user-attachments/assets/1811dbc2-25a9-4510-8543-19a89a7baece)
 
+![08](https://github.com/user-attachments/assets/9472000c-449a-4771-9069-42e3c3b2d4b8)
 
+![09](https://github.com/user-attachments/assets/3676c099-f545-4a69-95df-f70b04de010d)
 
+![10](https://github.com/user-attachments/assets/d80a9d39-b277-4b9f-a59c-924779e48ea2)
 
+![11](https://github.com/user-attachments/assets/b22dffb5-aad7-4f45-950a-9598b5b31446)
 
+![12](https://github.com/user-attachments/assets/0c6e0bde-1a15-45c0-a0e4-85e0967db0eb)
 
+![13](https://github.com/user-attachments/assets/b3a05c53-1301-4044-927d-16bf54e68e0b)
 
+![14](https://github.com/user-attachments/assets/0eeb6259-5ef1-4628-bb8e-d94e232190cb)
 
+![15](https://github.com/user-attachments/assets/4faf4108-e360-4d38-801f-89a601281eb8)
 
+![16](https://github.com/user-attachments/assets/c51e03e7-3b0b-4f9d-b5ab-9cfe08f9d594)
+
+![17](https://github.com/user-attachments/assets/b6093381-59bf-4d5d-a860-2348aa50f154)
 
 
 ---
