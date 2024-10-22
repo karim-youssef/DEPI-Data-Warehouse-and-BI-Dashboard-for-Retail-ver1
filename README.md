@@ -18,6 +18,12 @@ The project components are as follows:
 - **Power BI**: Visualizes data and delivers interactive reporting.
 
 
+![01](https://github.com/user-attachments/assets/322a6cbb-21ae-49d7-901d-e4aa60a3efa6)
+
+![02](https://github.com/user-attachments/assets/4304d3b3-4f72-44d1-bcf4-86c1014d4167)
+
+![03](https://github.com/user-attachments/assets/2f45c3f7-6c4f-4e9c-a2a8-4cb36e1efc3d)
+
 
 
 ---
@@ -39,6 +45,12 @@ Before setting up the project, ensure you have the following:
 - **Setting User for login**: Copy the first two row from SQL Commands
 - **Add this user and password as Key Vault secrets**:
 
+![04](https://github.com/user-attachments/assets/f8454bc1-85ab-4ca6-9cb7-1af324d70d32)
+
+![05](https://github.com/user-attachments/assets/3790df6f-bbe8-43f5-9e7e-3d4e98972479)
+
+![06](https://github.com/user-attachments/assets/2d3bd1e6-e5c7-4a29-b897-9c256b213c25)
+
  
 
 ---
@@ -48,6 +60,15 @@ Before setting up the project, ensure you have the following:
 - **Create Pipelines**: Set up pipelines to orchestrate Databricks transformations.
 - **Configure Linked Services**: Set up connections to Azure SQL Database, Blob Storage, etc.
 - **Data Flows**: Create and debug data flows for transformations and cleansing.
+
+![07](https://github.com/user-attachments/assets/1811dbc2-25a9-4510-8543-19a89a7baece)
+
+
+
+
+
+
+
 
 
 
