@@ -1,7 +1,9 @@
-# **End-to-End Azure Data Engineering Pipeline**
+# **DEPI-Data-Warehouse-and-BI-Dashboard-for-Retail-ver1**
 
 ### **Overview**
 This repository presents a comprehensive **end-to-end data engineering pipeline** built using **Azure services**. The project leverages **Azure Data Factory** for orchestration, **Azure Databricks** for data transformation using PySpark, **Azure Synapse Analytics** for data warehousing, and **Power BI** for visualization and reporting.
+
+
 
 ---
 
